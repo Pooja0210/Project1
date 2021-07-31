@@ -12,6 +12,8 @@ This analysis consists of using big data tools to answer questions about dataset
 * HADOOP
 
 # Features
+* Find, organize, and format pageviews on any given day.
+* Follow clickstreams to find relative frequencies of different pages.
 
 
 # Problem Statement
