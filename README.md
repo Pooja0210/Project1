@@ -7,13 +7,16 @@ This analysis consists of using big data tools to answer questions about dataset
 * HDFS
 * HIVE
 * MAPREDUCE
+* YARN
 * PYTHON
 * TEZ
 * HADOOP
+* GIT BASH
 
 # Features
-* Find, organize, and format pageviews on any given day.
+* Find, organize,analyse and format pageviews on any given day.
 * Follow clickstreams to find relative frequencies of different pages.
+* Find the different way to analyzethe most internal search link fraction of certain places.
 
 
 # Problem Statement
