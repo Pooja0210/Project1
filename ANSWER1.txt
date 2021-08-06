@@ -5,7 +5,7 @@ fields terminated by ' '
 location "/tmp/project1_table";
 ##########
 
-LOAD DATA INPATH '/tmp/data.txt' INTO TABLE target;
+LOAD DATA INPATH '/tmp/data.txt' INTO TABLE data;
 
 ##########
 
